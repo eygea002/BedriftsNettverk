@@ -14,3 +14,5 @@ Dokumentere konfigurasjon, testing og feilsøking.
 Verktøy: Cisco Packet Tracer.
 
 Resultat: Et fungerende bedriftsnettverk der avdelingene kan kommunisere med hverandre og få tilgang til sentrale nettverkstjenester.
+
+##GitHUb Kanban. https://github.com/users/eygea002/projects/13/views/2
